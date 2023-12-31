@@ -29,6 +29,6 @@ For each company, I'll be committing to the repository over 5 days, answering a 
 - **Discussion:** Join the conversation by opening issues or participating in discussions.
 
 ## Let's Connect
-Connect with me on [LinkedIn](<[Your LinkedIn Profile Link](https://www.linkedin.com/in/harshad-madhbhave/)>) and share your insights or experiences. Let's support each other on this learning journey!
+Connect with me on [LinkedIn](<Your LinkedIn Profile Link](https://www.linkedin.com/in/harshad-madhbhave/>) and share your insights or experiences. Let's support each other on this learning journey!
 
 Happy Coding! 🚀
