@@ -2,11 +2,6 @@
 
 [![Problem Link](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)
 
-Given a string, Your task is to  complete the function `encode` that returns the run length encoded string for the given string.
-eg if the input string is “wwwwaaadexxxxxx”, then the function should return “w4a3d1e1x6″.
-You are required to complete the function `encode` that takes only one argument the string which is to be encoded and returns the encoded string.
-
-
 Given a binary tree root, return the `maximum sum` of all keys of any sub-tree which is also a Binary Search Tree (BST).
 
 Assume a BST is defined as follows:
