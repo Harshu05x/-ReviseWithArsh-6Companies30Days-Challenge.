@@ -21,7 +21,7 @@ For each company, I'll be committing to the repository over 5 days, answering a 
 
 ## Getting Started
 1. Clone the repository: `git clone https://github.com/Harshu05x/ReviseWithArsh-6Companies30Days-Challenge`
-2. Navigate to the specific day's folder: `cd company1/que1`
+2. Navigate to the specific company's folder: `cd company1/que1`
 3. Explore the code files and accompanying explanations.
 
 ## Let's Connect
