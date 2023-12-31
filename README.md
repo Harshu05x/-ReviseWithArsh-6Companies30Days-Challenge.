@@ -1,12 +1,11 @@
 # 6 Companies 30 Days Challenge
 
 ## Overview
-Welcome to the 6 Companies 30 Days Challenge! This repository contains my coding solutions and progress updates as I prepare for tech interviews, following the guidance of Arsh Goyal's #6Companies30Days challenge.
+Welcome to the 6 Companies 30 Days Challenge! This repository contains my coding solutions as I prepare for tech interviews, following the guidance of Arsh Goyal's #6Companies30Days challenge.
 
 ## Challenge Details
 - **Duration:** 30 days
-- **Objective:** Master essential skills for tech interviews, covering data structures and algorithms.
-
+- **Objective:** Develop consistency in coding practice and prepare for interviews with a special emphasis on questions asked by leading tech companies during OFF                   CAMPUS hiring for Software Roles - Internships and Full Time positions.
 ## Repository Structure
 - `company1/`: Company-specific folder containing 15 DSA questions and solutions.
   - `day1/`: Daily progress for Day 1.
