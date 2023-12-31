@@ -20,8 +20,8 @@ Welcome to the 6 Companies 30 Days Challenge! This repository contains my coding
 For each company, I'll be committing to the repository over 5 days, answering a set of 15 questions within that timeframe. Dive into specific company folders to find solutions for the most crucial questions frequently asked during OFF CAMPUS interviews.
 
 ## Getting Started
-1. Clone the repository: `git clone <repository_url>`
-2. Navigate to the specific day's folder: `cd day-wise/day1`
+1. Clone the repository: `git clone https://github.com/Harshu05x/ReviseWithArsh-6Companies30Days-Challenge`
+2. Navigate to the specific day's folder: `cd company1/que1`
 3. Explore the code files and accompanying explanations.
 
 ## Contributions
@@ -29,6 +29,6 @@ For each company, I'll be committing to the repository over 5 days, answering a 
 - **Discussion:** Join the conversation by opening issues or participating in discussions.
 
 ## Let's Connect
-Connect with me on [LinkedIn](<(https://www.linkedin.com/in/harshad-madhbhave/)>) and share your insights or experiences. Let's support each other on this learning journey!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/harshad-madhbhave/) and check out my [GitHub](https://github.com/Harshu05x/ReviseWithArsh-6Companies30Days-Challenge) for more insights into this challenge and my coding journey.
 
 Happy Coding! 🚀
