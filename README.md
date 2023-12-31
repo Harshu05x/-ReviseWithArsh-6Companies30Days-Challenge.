@@ -1,33 +1,32 @@
 # 🚀 6 Companies 30 Days Challenge 🚀
 
-## Welcome
-Welcome to the 6 Companies 30 Days Challenge! This repository is your guide to mastering tech interviews, focusing on the key questions asked by top tech companies during OFF CAMPUS hiring for Software Roles - Internships and Full Time positions.
+## Overview
+Welcome to the 6 Companies 30 Days Challenge! This repository contains my coding solutions as I prepare for tech interviews with a focus on specific companies, following the guidance of Arsh Goyal's #6Companies30Days #ReviseWithArsh challenge. Each company folder contains 15 Data Structure and Algorithm (DSA) questions along with their solutions.
 
-## Challenge Details
+## 🎯 Challenge Details
 - **Duration:** 30 days
-- **Objective:** Develop consistency in coding practice and prepare for interviews with a special emphasis on questions asked by leading tech companies.
+- **Objective:** Build coding consistency and ace interviews by focusing on the most frequent questions asked by leading tech companies.
 
 ## 📂 Repository Structure
-- `company1/`: 15 DSA questions and solutions.
-  - `que1-que3/`: Solutions for the first three questions.
+- `company1/`: Company-specific folder containing 15 DSA questions and solutions.
+  - `que1/`: Solutions for the first question.
   - ...
-  - `que13-que15/`: Solutions for the last three questions.
-- `company2/`: ...
-- `company6/`: ...
+  - `que15/`: Solutions for the fifteenth question.
+- `company2/`: Company-specific folder containing 15 DSA questions and solutions.
+  ...
+- `company6/`: Company-specific folder containing 15 DSA questions and solutions.
+  ...
 
-## 🚀 5-Day Commitment
-I commit to answering 15 questions from a specific company in 5 days. Dive into company folders to find solutions for frequently asked questions during OFF CAMPUS interviews.
+## 📆 5-Day Commitment
+Committing to this repository every 5 days, solving 15 questions within that period for each company. Dive into specific company folders for crucial interview insights.
 
-## 🛠 Getting Started
-1. **Clone the repository:** `git clone https://github.com/Harshu05x/ReviseWithArsh-6Companies30Days-Challenge`
-2. **Navigate to a company's folder:** `cd company1`
-3. **Explore the question-wise folders:** Find solutions for each question.
+## 🚀 Getting Started
+1. Clone the repository: `git clone https://github.com/Harshu05x/ReviseWithArsh-6Companies30Days-Challenge`
+2. Navigate to a specific company's folder: `cd company1`
+3. Explore the question-wise folders for detailed solutions.
 
-## 🌟 Contributions
-- **Feedback:** Create an issue or submit a pull request.
-- **Discussion:** Join the conversation by opening issues or participating in discussions.
-
-## 🤝 Let's Connect
-Connect with me on [LinkedIn](https://www.linkedin.com/in/harshad-madhbhave/), check out my [GitHub](https://github.com/Harshu05x/ReviseWithArsh-6Companies30Days-Challenge) for insights into this challenge, view my solutions on [LeetCode](https://leetcode.com/Harshu_05x/), and explore my DSA performance on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/harshu05x/).
+## 🌐 Let's Connect
+Connect with me on [LinkedIn](https://www.linkedin.com/in/harshad-madhbhave/) for professional insights. 
+Check out my [LeetCode](https://leetcode.com/Harshu_05x/) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/harshu05x/) profiles for in-depth problem-solving.
 
 Happy Coding! 🚀
