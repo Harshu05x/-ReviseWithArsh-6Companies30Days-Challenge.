@@ -24,11 +24,7 @@ For each company, I'll be committing to the repository over 5 days, answering a 
 2. Navigate to the specific day's folder: `cd company1/que1`
 3. Explore the code files and accompanying explanations.
 
-## Contributions
-- **Feedback:** If you have suggestions or improvements, please create an issue or submit a pull request.
-- **Discussion:** Join the conversation by opening issues or participating in discussions.
-
 ## Let's Connect
-Connect with me on [LinkedIn](https://www.linkedin.com/in/harshad-madhbhave/) and check out my [GitHub](https://github.com/Harshu05x/ReviseWithArsh-6Companies30Days-Challenge) for more insights into this challenge and my coding journey.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/harshad-madhbhave/) and and share your insights or experiences. Let's support each other on this learning journey!.
 
 Happy Coding! 🚀
