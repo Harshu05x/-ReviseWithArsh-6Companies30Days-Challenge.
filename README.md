@@ -8,16 +8,16 @@ Welcome to the 6 Companies 30 Days Challenge! This repository contains my coding
 - **Objective:** Develop consistency in coding practice and prepare for interviews with a special emphasis on questions asked by leading tech companies during OFF                   CAMPUS hiring for Software Roles - Internships and Full Time positions.
 ## Repository Structure
 - `company1/`: Company-specific folder containing 15 DSA questions and solutions.
-  - `day1/`: Daily progress for Day 1.
+  - `que1/`: Solutions for the first question.
   - ...
-  - `day15/`: Daily progress for Day 15.
+  - `que15/`: Solutions for the fifteenth question.
 - `company2/`: Company-specific folder containing 15 DSA questions and solutions.
   ...
 - `company6/`: Company-specific folder containing 15 DSA questions and solutions.
   ...
 
-## Daily Commitment
-Each day, I'll be committing to the repository, sharing my solutions, and documenting my journey. Feel free to explore, provide feedback, or join in the discussion!
+## 5-Day Commitment
+For each company, I'll be committing to the repository over 5 days, answering a set of 15 questions within that timeframe. Dive into specific company folders to find solutions for the most crucial questions frequently asked during OFF CAMPUS interviews.
 
 ## Getting Started
 1. Clone the repository: `git clone <repository_url>`
