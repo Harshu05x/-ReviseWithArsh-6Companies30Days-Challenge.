@@ -49,6 +49,6 @@ public:
     }
 };
 ```
-![certificate](https://github.com/Harshu05x/ReviseWithArsh-6Companies30Days-Challenge/assets/96901785/69d5f214-dfb3-441d-80ad-0c9eebf623c8)
 
-
+### Accepted
+![image](https://github.com/Harshu05x/ReviseWithArsh-6Companies30Days-Challenge/assets/96901785/343ef011-9a64-45be-8ba4-486bfd1291ed)
