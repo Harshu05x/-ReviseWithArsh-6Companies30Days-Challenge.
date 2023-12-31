@@ -49,6 +49,3 @@ public:
     }
 };
 ```
-
-### Accepted
-![image](https://github.com/Harshu05x/ReviseWithArsh-6Companies30Days-Challenge/assets/96901785/343ef011-9a64-45be-8ba4-486bfd1291ed)
