@@ -19,35 +19,28 @@ smallest positive missing number is 2.
 
 ### Solution
 ```cpp
-class Solution{   
+class Solution{
 public:
-    string printMinNumberForPattern(string S){
-        // code here 
-        int n = S.length(); int i = 0; int current = 1;
-        string ans;
-        ans.push_back('1');
-        while(i < n){
-            if(S[i] == 'D'){
-                int j = i;
-                while(j < n && S[j] == 'D')
-                    j++;
-                    
-                current += j-i;
-                ans[i] = (current + '0');
-                int c = current;
-                while(i != j){
-                    c--;
-                    ans.push_back(c + '0');
-                    i++;
-                }
-            }
-            else{
-                current++;
-                ans.push_back(current + '0');
-                i++;
-            }
+    vector<int> findTwoElement(vector<int> nums, int n) {
+        vector<int> hash(n+1,0);
+        int repeating = -1;
+        int missing = -1;
+        
+        for(auto i: nums)
+            hash[i]++;
+        
+        for(int i = 1; i <= n; i++){
+            if(hash[i] == 0)
+                missing = i;
+            else if(hash[i] == 2)
+                repeating = i;
+            
+            if(missing != -1 && repeating != -1)
+                return {repeating,missing};
+            
         }
-        return ans;
+        
+        return {-1,-1};
     }
 };
 ```
