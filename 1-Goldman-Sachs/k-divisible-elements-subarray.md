@@ -8,6 +8,7 @@ which have `at most k elements that are divisible by p`.
 Two arrays `nums1` and `nums2` are said to be distinct if:
 - They are of different lengths, or
 - There exists at least one index `i where nums1[i] != nums2[i]`.
+
 A subarray is defined as a non-empty contiguous sequence of elements in an array.
 
 ### Sample Input
@@ -17,6 +18,7 @@ nums = [2,3,3,2,2], k = 2, p = 2
 ### Sample Output
 ```
 11
+
 Explanation:
 The elements at indices 0, 3, and 4 are divisible by p = 2.
 The 11 distinct subarrays which have at most k = 2 elements divisible by 2 are:
