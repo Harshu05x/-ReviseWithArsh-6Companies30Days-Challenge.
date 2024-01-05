@@ -14,7 +14,7 @@ Return an `array answer` of the `same length as queries`, where `answer[i]`is th
 Note:
 - To trim to the rightmost x digits means to keep removing the leftmost digit, until only x digits remain.
 - Strings in nums may contain leading zeros.
-- 
+ 
 ### Sample Input
 ```
 nums = ["102","473","251","814"], queries = [[1,1],[2,3],[4,2],[1,2]]
