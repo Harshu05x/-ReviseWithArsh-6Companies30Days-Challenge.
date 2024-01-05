@@ -26,4 +26,31 @@ It can be shown that it is not possible to obtain a lower maximum satisfying all
 ### Solution
 ```cpp
 
+class Solution {
+int mod = pow(10,9) + 7;
+public:
+    int minimizeSet(long long d1, long long d2, int cnt1, int cnt2){
+        
+        long long lcm = (d1 * d2) / __gcd(d1, d2);
+        long long t = cnt1 + cnt2;
+        long long s = t, e = 1e12;
+        long long ans = 0;
+        
+        while (s <= e){
+            long long m = s + (e - s) / 2;
+            long long c = m / lcm;
+            long long a = m / d2 - c;
+            long long b = m / d1 - c;
+            t = max(0ll, cnt1 - a) + max(0ll, cnt2 - b);
+            if ((m-a-b) >= (t+c))
+            {
+                ans = m;
+                e = m - 1;
+            }
+            else
+                s = m + 1;
+        }
+        return ans;
+    }
+};
 ```
