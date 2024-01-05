@@ -11,6 +11,7 @@ You are also given a 0-indexed 2D integer array `queries` where `queries[i] = [k
 - Reset each number in `nums` to its original length.
 
 Return an `array answer` of the `same length as queries`, where `answer[i]`is the answer to the `ith query`.
+
 Note:
 - To trim to the rightmost x digits means to keep removing the leftmost digit, until only x digits remain.
 - Strings in nums may contain leading zeros.
