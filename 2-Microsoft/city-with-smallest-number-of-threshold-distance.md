@@ -14,7 +14,7 @@ Notice that the distance of a path connecting cities i and j is equal to the sum
 ```
 n = 4, edges = [[0,1,3],[1,2,1],[1,3,4],[2,3,1]], distanceThreshold = 4
 ```
-![image](https://github.com/Harshu05x/ReviseWithArsh-6Companies30Days-Challenge/assets/96901785/ccd40443-caad-4735-8607-ede5c63c7633)
+![image](https://github.com/Harshu05x/ReviseWithArsh-6Companies30Days-Challenge/assets/96901785/62ee7d26-7645-4d87-bc3e-56dd5a041818)
 
 ### Sample Output
 ```
