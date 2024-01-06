@@ -57,7 +57,8 @@ public:
         if(x > arr[i][2]){
             x = arr[i][0];
             y++;
-            // if y exceeds then increment i and reset x & y
+            // if y exceeds then increment i 
+            // and take x & y to next rectangle
             if(y > arr[i][3]){
                 i++;
                 // if i exceeds then reset i
