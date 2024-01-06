@@ -22,6 +22,7 @@ A subarray is a contiguous non-empty sequence of elements within an array.
 ### Sample Output
 ```
 7
+
 Explanation:
 The 7 incremovable subarrays are: [5], [6], [5,7], [6,5], [5,7,8], [6,5,7] and [6,5,7,8].
 It can be shown that there are only 7 incremovable subarrays in nums.
