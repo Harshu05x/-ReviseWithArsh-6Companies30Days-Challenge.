@@ -14,10 +14,11 @@ Notice that the distance of a path connecting cities i and j is equal to the sum
 ```
 n = 4, edges = [[0,1,3],[1,2,1],[1,3,4],[2,3,1]], distanceThreshold = 4
 ```
+![image](https://github.com/Harshu05x/ReviseWithArsh-6Companies30Days-Challenge/assets/96901785/ccd40443-caad-4735-8607-ede5c63c7633)
+
 ### Sample Output
 ```
 3
-![image](https://github.com/Harshu05x/ReviseWithArsh-6Companies30Days-Challenge/assets/96901785/ccd40443-caad-4735-8607-ede5c63c7633)
 
 The figure above describes the graph. 
 The neighboring cities at a distanceThreshold = 4 for each city are:
