@@ -113,7 +113,6 @@ public:
 class Solution {
 public:
     int findTheCity(int n, vector<vector<int>>& edges, int dt) {
-        unordered_map<int,list<pair<int,int>>> adjList;
 
         vector<vector<int>> dist(n,vector<int>(n,1e9));
         for(int i = 0; i < n; i++)
