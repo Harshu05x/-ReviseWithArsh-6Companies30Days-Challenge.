@@ -29,7 +29,7 @@ City 3 -> [City 1, City 2]
 Cities 0 and 3 have 2 neighboring cities at a distanceThreshold = 4, but we have to return city 3 since it has the greatest number.
 ```
 
-### Solution
+### Solution 1 - using Dijkstra algorithm
 ```cpp
 class Solution {
     void makeAdjList(unordered_map<int,list<pair<int,int>>>& adjList, 
@@ -105,6 +105,47 @@ public:
             }
         }
         return ans;
+    }
+};
+```
+### Solution 2 - using Floyd-Warshall algorithm
+```cpp
+class Solution {
+public:
+    int findTheCity(int n, vector<vector<int>>& edges, int dt) {
+        unordered_map<int,list<pair<int,int>>> adjList;
+
+        vector<vector<int>> dist(n,vector<int>(n,1e9));
+        for(int i = 0; i < n; i++)
+            dist[i][i] = 0;
+        
+        for(auto i: edges){
+            dist[i[0]][i[1]] = i[2];
+            dist[i[1]][i[0]] = i[2];
+        }
+
+        for(int helper = 0; helper < n; helper++){
+            for(int i = 0; i < n; i++){
+                for(int j = 0; j < n; j++){
+                    dist[i][j] = min(dist[i][j], dist[i][helper]+dist[helper][j]);
+                }
+            }
+        }
+
+        pair<int,int> temp = {INT_MIN,INT_MAX};
+        for(int i = 0; i < n; i++){
+            int cnt = 0;
+            for(int j = 0; j < n; j++){
+                if(dist[i][j] <= dt && i != j)
+                    cnt++;
+            }
+            if(cnt < temp.second)
+                temp = {i,cnt};
+            else if(cnt == temp.second)
+                temp = {max(i,temp.first),cnt};
+
+        }
+        return temp.first;
     }
 };
 ```
