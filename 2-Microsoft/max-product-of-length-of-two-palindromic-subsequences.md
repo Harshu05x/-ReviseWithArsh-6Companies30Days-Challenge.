@@ -1,6 +1,6 @@
 # Maximum Product of the Length of Two Palindromic Subsequences
 
-[![Problem Link](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)]([https://leetcode.com/problems/bulls-and-cows/description/](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/description/))
+[![Problem Link](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/description/)
 
 Given a string s, find `two disjoint palindromic subsequences` of s such that the `product` of their `lengths` is `maximized`. 
 The two subsequences are disjoint if they do not both pick a character at the same index.
