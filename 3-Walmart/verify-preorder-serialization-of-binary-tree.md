@@ -5,7 +5,7 @@
 One way to serialize a binary tree is to use `preorder traversal`. When we encounter a non-null node, 
 we record the node's value. If it is a null node, we record using a sentinel value such as `'#'`.
 
-![image](https://github.com/Harshu05x/ReviseWithArsh-6Companies30Days-Challenge/assets/96901785/86b7db61-28b4-43a0-b08d-62c45831d6c0)
+![image](https://github.com/Harshu05x/ReviseWithArsh-6Companies30Days-Challenge/assets/96901785/9f412e92-feca-4780-b831-6dee5fd3af8d)
 
 For example, the above binary tree can be serialized to the string `"9,3,4,#,#,1,#,#,2,#,6,#,#"`, where '#' represents a null node.
 Given a string of comma-separated values `preorder`, return `true` if it is a correct preorder traversal serialization of a binary tree.
