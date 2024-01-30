@@ -8,13 +8,19 @@ Welcome to the 6 Companies 30 Days Challenge! This repository contains my coding
 - **Objective:** Build coding consistency and ace interviews by focusing on the most frequent questions asked by leading tech companies.
 
 ## 📂 Repository Structure
-- `company1/`: Company-specific folder containing 15 DSA questions and solutions.
+- `1-Goldman-Sachs/`: Company-specific folder containing 15 DSA questions and solutions.
   - `que1/`: Solutions for the first question.
   - ...
   - `que15/`: Solutions for the fifteenth question.
-- `company2/`: Company-specific folder containing 15 DSA questions and solutions.
+- `2-Microsoft/`: Company-specific folder containing 15 DSA questions and solutions.
   ...
-- `company6/`: Company-specific folder containing 15 DSA questions and solutions.
+- `3-Walmart/`: Company-specific folder containing 15 DSA questions and solutions.
+  ...
+- `4-Adobe/`: Company-specific folder containing 15 DSA questions and solutions.
+  ...
+- `5-Atlassain/`: Company-specific folder containing 15 DSA questions and solutions.
+  ...
+- `6-Google/`: Company-specific folder containing 15 DSA questions and solutions.
   ...
 
 ## 📆 5-Day Commitment
